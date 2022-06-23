@@ -8,6 +8,6 @@ A service facility consists of two servers in series (tandem), each with its own
 suppose that with probability 0.2, a customer completing service at server 2 is dissatisfi ed with her overall service and must be completely served over again (at least once) by both servers. Defi ne the delay in queue of a customer (in a particular queue) to be the total delay in that queue for all of that customer’s passes through the facility. Simulate the facility for each of the following
 cases (estimate the same measures as before):
 ***
-  a) Dissatisfi ed customers join the tail of queue 1.
+  a) Dissatisfied customers join the tail of queue 1.
 ***
-  b) Dissatisfi ed customers join the head of queue 1.
+  b) Dissatisfied customers join the head of queue 1.
